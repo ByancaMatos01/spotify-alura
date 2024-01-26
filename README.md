@@ -2,6 +2,7 @@
 # Descrição 
 * Bem-vindo ao Spotify Explorer, um projeto emocionante desenvolvido durante a imersão de Front-end da Alura!<BR>
 Nosso objetivo é criar uma aplicação web interativa que ofereça aos usuários uma experiência aprimorada ao explorar a vasta biblioteca musical do Spotify.
+
 # aula 1 
 Nesta aula, vamos começar o nosso projeto da recriação da página inicial do Spotify por meio do HTML e do CSS, aprenda atalhos, recursos e as diferenças entre os códigos.
 * Entrar no VSCode;
@@ -24,7 +25,7 @@ Nesta aula, nos concentraremos na estrutura do código, além de irmos mais a fu
 * Aprender conceitos de responsividade;
 * Criar o menu superior.
 
-  # aula 4
+# aula 4
   Nesta aula, iremos utilizar o CSS Grid no projeto, para os cards da página inicial, aprendendo as medias queries, além de introduzir o JavaScript com o conceito DOM e o método promises.
 * Criar os cards da página inicial;
 * Aprender a usar o CSS Grid Layout;
