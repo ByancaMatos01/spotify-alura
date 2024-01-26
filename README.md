@@ -36,6 +36,7 @@ Nesta aula, nos concentraremos na estrutura do código, além de irmos mais a fu
 * Conhecer o método Promises do JavaScript.
   
 # aula 5
+Nesta última aula, iremos utilizar frameworks de JavaScript React no projeto para, assim, criarmos o componente <Header>!
 * Dar introdução a um projeto React;
 * Utilizar o framework React para criar o componente <Header>;
 * Aprender as diferenças entre Angular e React.
